@@ -1,0 +1,37 @@
+* commit 5e6c1a705262b78c85607e227b1fb33c5525a774 (HEAD -> master, FeriaCesur/master)
+| Author: Nino <ninogs170401@gmail.com>
+| Date:   Thu Apr 22 09:14:37 2021 +0200
+| 
+|     V5
+| 
+* commit 0ec3345efb1a5a3b4b7ab71a2a5ed11a28a3f994 (Cocina_caseta)
+| Author: Nino <ninogs170401@gmail.com>
+| Date:   Thu Apr 22 08:53:38 2021 +0200
+| 
+|     V4
+| 
+* commit 3c491f9217766cc17a644ed191e6fb3d8f1e7130
+| Author: Nino <ninogs170401@gmail.com>
+| Date:   Thu Apr 22 08:49:59 2021 +0200
+| 
+|     V3
+| 
+* commit 1d4517bf3488924e95991847e5db2b1b2297572b
+| Author: Nino <ninogs170401@gmail.com>
+| Date:   Thu Apr 22 08:45:31 2021 +0200
+| 
+|     v1
+| 
+* commit c7a6969e4d6ee6f20cb6037bf2578f8c56b192c6
+  Author: Nino <ninogs170401@gmail.com>
+  Date:   Thu Apr 22 08:44:51 2021 +0200
+  
+      lista_socios.txt
+5e6c1a7 HEAD@{0}: commit: V5
+0ec3345 HEAD@{1}: merge Cocina_caseta: Fast-forward
+3c491f9 HEAD@{2}: checkout: moving from Cocina_caseta to master
+0ec3345 HEAD@{3}: commit: V4
+3c491f9 HEAD@{4}: checkout: moving from master to Cocina_caseta
+3c491f9 HEAD@{5}: commit: V3
+1d4517b HEAD@{6}: commit: v1
+c7a6969 HEAD@{7}: commit (initial): lista_socios.txt
